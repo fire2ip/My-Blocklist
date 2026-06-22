@@ -1,0 +1,2 @@
+# My Blocklist
+0.0.0.0 meetchat.chat
