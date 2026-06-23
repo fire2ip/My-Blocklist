@@ -1,3 +1,4 @@
 # My Blocklist
 0.0.0.0 meetchat.chat
 0.0.0.0 bonus138haxjp.live
+0.0.0.0 pornhaven.ai/hentai?
